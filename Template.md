@@ -16,8 +16,8 @@ https://catalog.data.gov/dataset/u-s-chronic-disease-indicators
 
 Data cleaning from project 2
 
-![From Module 14](https://nathan-savage.github.io/belly-button-challenge/)
-![From Module 15](https://nathan-savage.github.io/leaflet-challenge/)
+![alt text](<Screenshot 2024-12-18 at 9.50.29 PM.png>)
+![alt text](<Screenshot 2024-12-18 at 9.50.44 PM.png>)
 
 
 
