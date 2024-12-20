@@ -4,12 +4,15 @@ See ReadMe section
 ## Topic
 CDC's Division of Population Health provides a cross-cutting set of 115 indicators developed by consensus among CDC, the Council of State and Territorial Epidemiologists, and the National Association of Chronic Disease Directors. These indicators allow states and territories to uniformly define, collect, and report chronic disease data that are important to public health practice in their area. In addition to providing access to state-specific indicator data, the CDI web site serves as a gateway to additional information and data resources.
 
-1. What are the most common chronic diseases in the USA?
+1. What are the most common chronic diseases in the USA? (Frenci)
+    Create stratification category1 dataframe
     Pie chart, bar chart? (limitations based on chart)
-2. Where are these diseases locationed (based on state)?
+2. Where are these diseases locationed (based on state)? dropdown list (user interaction)(Marah)
+    Create data source dataframe
     Marker map (should understand locations better)
-3. Heat map map filtered by disease?
-
+3. Heat map filtered by stratification? (Nathan)
+    SQL database
+    year start/year end dataframe 
 
 
 ## Dataset
