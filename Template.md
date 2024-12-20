@@ -11,7 +11,7 @@ CDC's Division of Population Health provides a cross-cutting set of 115 indicato
     Create data source dataframe
     Marker map (should understand locations better)
 3. Heat map filtered by stratification? (Nathan)
-    SQL database
+    SQL database (can be one table) just need to connect the "engine" 
     year start/year end dataframe 
 
 
