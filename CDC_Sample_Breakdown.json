@@ -1,3 +1,4 @@
+d3.json(" https://data.cdc.gov/api/views/hksd-2xuw/rows.json?accessType=DOWNLOAD").then((data) => {
 
 "meta" : {
   "view" : {
